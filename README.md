@@ -46,14 +46,14 @@
         
       <ol> 
           <ul type="circle">
-            <p><b><i>Extra Activities</i></b></p>
-            <li><acronym title="Massachusetts Institute of Technology"><b>MIT</b></acronym> Legatum Centrum Entreprenuership program (2021) 
-            <p>I've had the honor to be a part of the Inovation Nation Program that the <b>Massachusetts Institute of Technology</b> provided for 50 young entreprenuers from Bosnia & Herzegovina where we had <del>18 weeks</del> <ins><b>12 weeks</b></ins> to create a start-up and find an investor that will help us with it.</p>
-            </li>
-            <li>Marketing for a <acronym title="Mistik">fragrance e-Commerce brand (2021. -)</acronym>
-            <p>I've done <i>Facebook, Instagram and Influencer</i> Advertising for an e-Commerce brand that sells fragrances called <b>Mistik</b>, we have launched over <i>60 successfull</i> marketing campaigns with a high <acronym title="Return on Investment">ROI</acronym> and still working to this day together. </p>
-            </li>
-        </ul>
+                 <p><b><i>Extra Activities</i></b></p>
+                <li><acronym title="Massachusetts Institute of Technology"><b>MIT</b></acronym> Legatum Centrum Entreprenuership program (2021) 
+                 <p>I've had the honor to be a part of the Inovation Nation Program that the <b>Massachusetts Institute of Technology</b> provided for 50 young entreprenuers from Bosnia & Herzegovina where we had <del>18 weeks</del> <ins><b>12 weeks</b></ins> to create a start-up and find an investor that will help us with it.</p>
+                </li>
+                 <li>Marketing for a <acronym title="Mistik">fragrance e-Commerce brand (2021. -)</acronym>
+                 <p>I've done <i>Facebook, Instagram and Influencer</i> Advertising for an e-Commerce brand that sells fragrances called <b>Mistik</b>, we have launched over <i>60 successfull</i> marketing campaigns with a high <acronym title="Return on Investment">ROI</acronym> and still working to this day together. </p>
+                </li>
+            </ul>
         </ol>
         <hr>
         <a name="Skills"> <h2> Skills </h2> </a>
