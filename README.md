@@ -44,7 +44,8 @@
             Even tho i had more passion for business, I decided to go with <i><del>business and management</del></i><b> Software engeneering</b> </p></li>
         </ul>
         
-      <ol> <ul type="circle">
+      <ol> 
+          <ul type="circle">
             <p><b><i>Extra Activities</i></b></p>
             <li><acronym title="Massachusetts Institute of Technology"><b>MIT</b></acronym> Legatum Centrum Entreprenuership program (2021) 
             <p>I've had the honor to be a part of the Inovation Nation Program that the <b>Massachusetts Institute of Technology</b> provided for 50 young entreprenuers from Bosnia & Herzegovina where we had <del>18 weeks</del> <ins><b>12 weeks</b></ins> to create a start-up and find an investor that will help us with it.</p>
