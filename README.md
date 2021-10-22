@@ -56,12 +56,12 @@
         </ol>
         <hr>
         <a name="Skills"> <h2> Skills </h2> </a>
-        <ul type:="circle">
-            <li>Marketing</li>
-            <li>E-commerce</li>
-            <li>Copywriting</li>
-            <li>Facebook Advertising</li>
-        </ul>
+            <ul type:="circle">
+             <li>Marketing</li>
+             <li>E-commerce</li>
+             <li>Copywriting</li>
+             <li>Facebook Advertising</li>
+            </ul>
         <hr>
         <a name="Contact Me"><h2>Contact Me</h2> </a>
         
